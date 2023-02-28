@@ -25,7 +25,7 @@ h1{
 
 #box {
     background-color: #ffff;
-    width: 50%;
+    width: 1000px;
     padding-top: 20px;
     padding-left: 50px;
     margin: auto;
@@ -38,7 +38,7 @@ h1{
 #box2{
     display: block;
     background-color: #ffff;
-    width: 50%;
+    width: 1000px;
     padding-top: 20px;
     padding-left: 50px;
     margin: auto;
@@ -54,9 +54,6 @@ h1{
     font-size: 15px;
     padding: 5px 10px;
     border: 2px solid #47adf1;
-
-
-
 }
 
 .bottone2 {
@@ -67,4 +64,36 @@ h1{
     padding: 5px 10px;
     color: #ced3d7; 
     border: 2px solid #ced3d7;
+}
+
+.check {
+    color: #58bca4;
+    border-radius: 50%;
+    border: 2px solid #58bca4;
+    padding: 5px;
+
+}
+
+p {
+    margin-top: 0;
+}
+
+h2 {
+    margin-bottom: 0;
+}
+
+.blue {
+    background-color: #45abea;
+    color: #ffffff;
+    border-radius: 13px;
+    padding: 7px;
+
+}
+
+.cross {
+    color: #eb5247;
+    border-radius: 50%;
+    border: 2px solid #eb5247;
+    padding: 5px;
+
 }
